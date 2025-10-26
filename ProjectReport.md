@@ -28,3 +28,10 @@ I ran out of time to make a polished report :( so i'll just make a summary of al
 - Also in the last 2 questions, because of excess background noise, the final image was looking messy and pixelated, so manually changed vmin value to remove the noise
 
 ## Task 2
+
+- This is very hard to summarize but ill try my best, so my main approach was columnwise cleaning and analysis
+
+- First i started with PassengerId and 'Name':
+- - Split up passengerId into groupId and groupSize after realising they were travelling in some sort of 'group'
+- - Checked via code that the last name of the people in same group doesnt have to be same (ie they are not directly related), which meant that this group wasnt always as simple as 'family'
+- - This meant that 'Name' as a column was
