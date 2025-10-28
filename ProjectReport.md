@@ -91,7 +91,7 @@ I ran out of time to make a polished report (and im inexperienced):( so i'll jus
 - There was an extremely high correlation between cryosleep = True and transportation (we visualized this too!)
 - We made a bunch of interesting plots you can go see all that, i just wanted to highlight one
 
-![InterestingPlot.jpeg](./Task2/InterestingPlots/4) StackedBarSpendings.jpeg)
+![InterestingPlot.jpeg](<./Task2/InterestingPlots/4) StackedBarSpendings.jpeg>)
 
 - This beautiful plot itself tells us a lot:
 - - There is a clear 'class' between cabin blocks, A-C blocks are 'rich', D block is 'mid', and E-G classes are 'poor/affordable'
